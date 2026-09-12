@@ -1,0 +1,11 @@
+{
+  "name": "AirQ - Hyperlocal AI Air Health",
+  "description": "Street-level air quality forecasting with personalized health risk assessments and AI-driven recommendations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
